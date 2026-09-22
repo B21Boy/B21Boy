@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/banner.svg" alt="Hi there, I&#39;m Deksiyos Yismaw - Full Stack Developer building AI-powered web apps - Bahir Dar University" width="100%" />
+  <img src="assets/banner.svg" alt="Hi there, I&#39;m Deksiyos Yismaw - Full Stack Developer building AI-powered web apps - Bahir Dar University" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/typing.svg" alt="Software Developer, AI &amp; Web App Enthusiast, Full Stack Developer, Always Learning Something New" />
+  <img src="assets/typing.svg" alt="Software Developer, AI &amp; Web App Enthusiast, Full Stack Developer, Always Learning Something New" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/h-about.svg" alt="About Me" />
+  <img src="assets/h-about.svg" alt="About Me" />
 </p>
 
 I'm a passionate software developer who enjoys building modern web applications and exploring new technologies. I love solving real-world problems through code and continuously improving my development skills.
@@ -21,53 +21,53 @@ I have experience working with frontend and backend technologies, and I'm always
 I believe that learning never stops, and every project is an opportunity to grow as a developer.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/h-stack.svg" alt="Tech Stack" />
+  <img src="assets/h-stack.svg" alt="Tech Stack" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/stack.svg" alt="Languages: JavaScript, Python, HTML5, CSS3. Frontend: React, Bootstrap, Tailwind CSS. Backend: Node.js, Express.js. Database: MongoDB, MySQL. Tools and Technologies: Git, GitHub, VS Code, Postman" />
+  <img src="assets/stack.svg" alt="Languages: JavaScript, Python, HTML5, CSS3. Frontend: React, Bootstrap, Tailwind CSS. Backend: Node.js, Express.js. Database: MongoDB, MySQL. Tools and Technologies: Git, GitHub, VS Code, Postman" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/h-learning.svg" alt="Currently Learning" />
+  <img src="assets/h-learning.svg" alt="Currently Learning" />
 </p>
 
 I'm currently expanding my knowledge in Artificial Intelligence and modern software engineering.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/b-ml.svg" alt="Machine Learning" width="287" />
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/b-langchain.svg" alt="LangChain" width="202" />
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/b-docker.svg" alt="Docker" width="166" />
+  <img src="assets/b-ml.svg" alt="Machine Learning" width="287" />
+  <img src="assets/b-langchain.svg" alt="LangChain" width="202" />
+  <img src="assets/b-docker.svg" alt="Docker" width="166" />
 </p>
 
 My current learning journey includes:
 
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-ai.svg" alt="" width="36" align="middle" /> &nbsp;Artificial Intelligence (AI)<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-ml.svg" alt="" width="36" align="middle" /> &nbsp;Machine Learning fundamentals<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-web.svg" alt="" width="36" align="middle" /> &nbsp;AI integration with web applications<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-python.svg" alt="" width="36" align="middle" /> &nbsp;Python for AI development<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-vector.svg" alt="" width="36" align="middle" /> &nbsp;Vector Databases<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-llm.svg" alt="" width="36" align="middle" /> &nbsp;Large Language Models (LLMs)<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-rag.svg" alt="" width="36" align="middle" /> &nbsp;Retrieval-Augmented Generation (RAG)<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-agents.svg" alt="" width="36" align="middle" /> &nbsp;AI Agents<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-cloud.svg" alt="" width="36" align="middle" /> &nbsp;Cloud deployment for AI applications<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-docker.svg" alt="" width="36" align="middle" /> &nbsp;Docker<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-prompt.svg" alt="" width="36" align="middle" /> &nbsp;Prompt Engineering<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-security.svg" alt="" width="36" align="middle" /> &nbsp;AI application security<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/l-data.svg" alt="" width="36" align="middle" /> &nbsp;Data processing and automation<br>
+<img src="assets/l-ai.svg" alt="" width="36" align="middle" /> &nbsp;Artificial Intelligence (AI)<br>
+<img src="assets/l-ml.svg" alt="" width="36" align="middle" /> &nbsp;Machine Learning fundamentals<br>
+<img src="assets/l-web.svg" alt="" width="36" align="middle" /> &nbsp;AI integration with web applications<br>
+<img src="assets/l-python.svg" alt="" width="36" align="middle" /> &nbsp;Python for AI development<br>
+<img src="assets/l-vector.svg" alt="" width="36" align="middle" /> &nbsp;Vector Databases<br>
+<img src="assets/l-llm.svg" alt="" width="36" align="middle" /> &nbsp;Large Language Models (LLMs)<br>
+<img src="assets/l-rag.svg" alt="" width="36" align="middle" /> &nbsp;Retrieval-Augmented Generation (RAG)<br>
+<img src="assets/l-agents.svg" alt="" width="36" align="middle" /> &nbsp;AI Agents<br>
+<img src="assets/l-cloud.svg" alt="" width="36" align="middle" /> &nbsp;Cloud deployment for AI applications<br>
+<img src="assets/l-docker.svg" alt="" width="36" align="middle" /> &nbsp;Docker<br>
+<img src="assets/l-prompt.svg" alt="" width="36" align="middle" /> &nbsp;Prompt Engineering<br>
+<img src="assets/l-security.svg" alt="" width="36" align="middle" /> &nbsp;AI application security<br>
+<img src="assets/l-data.svg" alt="" width="36" align="middle" /> &nbsp;Data processing and automation<br>
 
 My goal is to build intelligent applications that combine modern web development with AI technologies.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/h-interests.svg" alt="Interests" />
+  <img src="assets/h-interests.svg" alt="Interests" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/interests.svg" alt="Full Stack Development, Artificial Intelligence, Open Source, Problem Solving, Software Architecture, Backend Development, API Development, Cloud Computing" />
+  <img src="assets/interests.svg" alt="Full Stack Development, Artificial Intelligence, Open Source, Problem Solving, Software Architecture, Backend Development, API Development, Cloud Computing" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/h-stats.svg" alt="GitHub Stats" />
+  <img src="assets/h-stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -80,54 +80,54 @@ My goal is to build intelligent applications that combine modern web development
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/h-achievements.svg" alt="Achievements" />
+  <img src="assets/h-achievements.svg" alt="Achievements" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/a-hackathon.svg" alt="" width="40" align="middle" /> &nbsp;Participant – Bahir Dar University (BDU) Hackathon<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/a-projects.svg" alt="" width="40" align="middle" /> &nbsp;Built personal and academic software projects<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/a-learning.svg" alt="" width="40" align="middle" /> &nbsp;Continuously learning modern software development and AI technologies<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/a-skills.svg" alt="" width="40" align="middle" /> &nbsp;Actively improving my skills through hands-on coding and real-world projects<br>
+<img src="assets/a-hackathon.svg" alt="" width="40" align="middle" /> &nbsp;Participant – Bahir Dar University (BDU) Hackathon<br>
+<img src="assets/a-projects.svg" alt="" width="40" align="middle" /> &nbsp;Built personal and academic software projects<br>
+<img src="assets/a-learning.svg" alt="" width="40" align="middle" /> &nbsp;Continuously learning modern software development and AI technologies<br>
+<img src="assets/a-skills.svg" alt="" width="40" align="middle" /> &nbsp;Actively improving my skills through hands-on coding and real-world projects<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/h-goals.svg" alt="GitHub Goals" />
+  <img src="assets/h-goals.svg" alt="GitHub Goals" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/bullet.svg" alt="" width="26" align="middle" /> &nbsp;Build high-quality open-source projects<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/bullet.svg" alt="" width="26" align="middle" /> &nbsp;Contribute to open-source communities<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/bullet.svg" alt="" width="26" align="middle" /> &nbsp;Learn new technologies every day<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/bullet.svg" alt="" width="26" align="middle" /> &nbsp;Share knowledge with other developers<br>
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/bullet.svg" alt="" width="26" align="middle" /> &nbsp;Create impactful AI-powered applications<br>
+<img src="assets/bullet.svg" alt="" width="26" align="middle" /> &nbsp;Build high-quality open-source projects<br>
+<img src="assets/bullet.svg" alt="" width="26" align="middle" /> &nbsp;Contribute to open-source communities<br>
+<img src="assets/bullet.svg" alt="" width="26" align="middle" /> &nbsp;Learn new technologies every day<br>
+<img src="assets/bullet.svg" alt="" width="26" align="middle" /> &nbsp;Share knowledge with other developers<br>
+<img src="assets/bullet.svg" alt="" width="26" align="middle" /> &nbsp;Create impactful AI-powered applications<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/h-contact.svg" alt="Contact Me" />
+  <img src="assets/h-contact.svg" alt="Contact Me" />
 </p>
 
 <p align="center">
-  <a href="https://deksipapa.vercel.app/"><img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/c-portfolio.svg" alt="Portfolio" width="200" /></a>
-  <a href="https://www.linkedin.com/in/deksiyos-yismaw-371207425/"><img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/c-linkedin.svg" alt="LinkedIn" width="200" /></a>
-  <a href="mailto:deskiman721@gmail.com"><img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/c-gmail.svg" alt="Gmail" width="200" /></a>
+  <a href="https://deksipapa.vercel.app/"><img src="assets/c-portfolio.svg" alt="Portfolio" width="200" /></a>
+  <a href="https://www.linkedin.com/in/deksiyos-yismaw-371207425/"><img src="assets/c-linkedin.svg" alt="LinkedIn" width="200" /></a>
+  <a href="mailto:deskiman721@gmail.com"><img src="assets/c-gmail.svg" alt="Gmail" width="200" /></a>
 </p>
 
 Feel free to reach out if you'd like to collaborate on projects, discuss technology, or connect with me.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/h-features.svg" alt="GitHub Features I Use" />
+  <img src="assets/h-features.svg" alt="GitHub Features I Use" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/f-projects.svg" alt="" width="48" align="middle" /> &nbsp;**GitHub Projects** — planning and tracking my work across repos
+<img src="assets/f-projects.svg" alt="" width="48" align="middle" /> &nbsp;**GitHub Projects** — planning and tracking my work across repos
 
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/f-actions.svg" alt="" width="48" align="middle" /> &nbsp;**GitHub Actions (CI/CD)** — automated builds, tests, and deployments
+<img src="assets/f-actions.svg" alt="" width="48" align="middle" /> &nbsp;**GitHub Actions (CI/CD)** — automated builds, tests, and deployments
 
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/f-issues.svg" alt="" width="48" align="middle" /> &nbsp;**Issues** — tracking bugs and feature requests
+<img src="assets/f-issues.svg" alt="" width="48" align="middle" /> &nbsp;**Issues** — tracking bugs and feature requests
 
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/f-discussions.svg" alt="" width="48" align="middle" /> &nbsp;**Discussions** — collaborating and exchanging ideas on select projects
+<img src="assets/f-discussions.svg" alt="" width="48" align="middle" /> &nbsp;**Discussions** — collaborating and exchanging ideas on select projects
 
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/f-releases.svg" alt="" width="48" align="middle" /> &nbsp;**Releases** — versioned releases for my projects
+<img src="assets/f-releases.svg" alt="" width="48" align="middle" /> &nbsp;**Releases** — versioned releases for my projects
 
-<img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/f-pages.svg" alt="" width="48" align="middle" /> &nbsp;**GitHub Pages** — hosting live demos and project documentation
+<img src="assets/f-pages.svg" alt="" width="48" align="middle" /> &nbsp;**GitHub Pages** — hosting live demos and project documentation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deksi/Deksi/main/assets/thanks.svg" alt="Thanks for visiting my profile!" />
+  <img src="assets/thanks.svg" alt="Thanks for visiting my profile!" />
 </p>
 
 <p align="center">⭐ Thanks for visiting my profile! Feel free to explore my repositories and don't forget to leave a ⭐ if you find something interesting!</p>
