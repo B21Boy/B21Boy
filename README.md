@@ -25,7 +25,7 @@ I believe that learning never stops, and every project is an opportunity to grow
 </p>
 
 <p align="center">
-  <img src="stack.svg" alt="Languages: JavaScript, Python, HTML5, CSS3. Frontend: React, Bootstrap, Tailwind CSS. Backend: Node.js, Express.js. Database: MongoDB, MySQL. Tools and Technologies: Git, GitHub, VS Code, Postman" />
+  <img src="stack.svg" alt="Languages: JavaScript, TypeScript, Python, Dart, PHP, HTML5, CSS3. Frontend: React, Next.js, Bootstrap, Tailwind CSS. Mobile: Flutter. Backend: Node.js, Express.js, Prisma. Database: MongoDB, PostgreSQL, MySQL, Firebase, Supabase. Tools and Technologies: Git, GitHub, VS Code, Postman, Docker, Nexus" />
 </p>
 
 <p align="center">
