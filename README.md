@@ -26,9 +26,9 @@ I am a passionate software developer focused on designing, developing, and maint
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · JavaScript · Dart</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · JavaScript · TypeScript · React · Next.js · Dart</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>19 repositories · 2 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>109 contributions · 48 active days</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>500+ contributions since 2024 · 48 active days</p></td>
 </tr>
 </table>
 
@@ -41,7 +41,7 @@ I am a passionate software developer focused on designing, developing, and maint
 <tr>
 <td width="25%" align="center"><strong>19</strong><br /><sub>Repositories</sub></td>
 <td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>109</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>500+</strong><br /><sub>Contributions since 2024</sub></td>
 <td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
 </tr>
 </table>
@@ -59,22 +59,28 @@ I am a passionate software developer focused on designing, developing, and maint
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=b21boy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209832318%3Fu%3D021cd3cb3c343cff78468a67f6747ab1903d17a1%26v%3D4&repos=b21boy%2FDeksi_papa%2Cb21boy%2FDrug_store&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=b21boy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209832318%3Fu%3D021cd3cb3c343cff78468a67f6747ab1903d17a1%26v%3D4&repos=b21boy%2FDeksi_papa%2Cb21boy%2FDrug_store&v=recruiter-projects-1&mode=dark" width="100%" alt="Deksiyos Yismaw selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=b21boy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209832318%3Fu%3D021cd3cb3c343cff78468a67f6747ab1903d17a1%26v%3D4&repos=b21boy%2Fauraos%2Cb21boy%2FAutonomous-AI-Engineer%2Cb21boy%2FDrugo&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=b21boy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209832318%3Fu%3D021cd3cb3c343cff78468a67f6747ab1903d17a1%26v%3D4&repos=b21boy%2Fauraos%2Cb21boy%2FAutonomous-AI-Engineer%2Cb21boy%2FDrugo&v=recruiter-projects-1&mode=dark" width="100%" alt="Deksiyos Yismaw selected projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
-<h3><a href="https://github.com/B21Boy/Deksi_papa">Deksi_papa</a></h3>
+<h3><a href="https://github.com/B21Boy/auraos">auraos</a></h3>
 <p>A selected public project.</p>
 <p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/B21Boy/Deksi_papa">Read the repository →</a></p>
+<p><a href="https://github.com/B21Boy/auraos">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/B21Boy/Drug_store">Drug_store</a></h3><p>it is the app that used to store the drug for pharmacisist</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/B21Boy/Autonomous-AI-Engineer">Autonomous AI Engineer</a></h3><p>An AI agent that investigates backend incidents on its own — ingests logs and metrics, detects anomalies, and explains the likely root cause.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/B21Boy/Drugo">Drugo</a></h3><p>it is the app that used to store the drug for pharmacisist</p><p><sub>Open source · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
@@ -110,7 +116,7 @@ I am a passionate software developer focused on designing, developing, and maint
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="62%" valign="middle"><h2>Let's talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
 <td width="38%" valign="middle" align="right"><a href="https://github.com/b21boy">GitHub</a><br /><a href="https://deksipapa.vercel.app">Website</a></td>
 </tr>
 </table>
