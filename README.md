@@ -9,7 +9,7 @@
 <p>Full-Stack Developer | Mobile Application Developer
 I am a passionate software developer focused on designing, developing, and maintaining0</p>
 <p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Bahir Dar</sub></p>
+<p><sub>Based in Addis abeba</sub></p>
 <p><a href="https://github.com/b21boy">GitHub</a> &nbsp;·&nbsp; <a href="https://deksipapa.vercel.app">Website</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
@@ -121,4 +121,4 @@ I am a passionate software developer focused on designing, developing, and maint
 </tr>
 </table>
 
-<p align="center"><sub>Deksiyos Yismaw · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Deksiyos Yismaw ·Mobile and web developer <a href="https://deksicode-dev.vercel.app">GitSkins</a></sub></p>
