@@ -121,4 +121,4 @@ I am a passionate software developer focused on designing, developing, and maint
 </tr>
 </table>
 
-<p align="center"><sub>Deksiyos Yismaw ·Mobile and web developer <a href="https://deksicode-dev.vercel.app">GitSkins</a></sub></p>
+<p align="center"><sub>Deksiyos Yismaw ·Mobile and web developer <a href="https://deksicode-dev.vercel.app">My Portfolio</a></sub></p>
